@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron!
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Data Science Methodology
+- 👀 I’m interested in Data Analytics/Science
+- 🌱 I’m currently learning Python, Data Engineering, SWE
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me aarongan12104@gmail.com
 
